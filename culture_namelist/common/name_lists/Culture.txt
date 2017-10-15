@@ -1,0 +1,561 @@
+﻿### Culture namelist for Stellaris.
+### Original lists Created by Goddab and BastardySkull.
+### List merging, syntax fixes, added names and use testing by /u/Law_Student
+### Revised Ships classifications courtesy of /u/genvec
+### Updated 15th October 2017 by /u/Kogskatt
+### Trawled through https://forum.rpg.net/showthread.php?384018-Necro-Make-Your-Own-Culture-Ship-Names!/page17 for ideas and thoughts to include.
+
+Culture = {
+
+	alias = "CUL1"
+
+	ship_names = {
+
+		generic = {
+		}
+
+		corvette = {
+			"Screw Loose" 
+			"Gunboat Diplomat" 
+			"Hand Me The Gun And Ask Me Again" 
+			"Caconym" 
+			"In One Ear" 
+			"Fine Till You Came Along" 
+			"A Momentary Lapse Of Sanity" 
+			"Zero Credibility" 
+			"Scar Glamour" 
+			"Beastly to the Animals" 
+			"Dressed up to Party" 
+			"Ravished By The Sheer Implausibility Of That Last Statement" 
+			"You May Not Be The Coolest Person Here" 
+			"Thorough But ... Unreliable" 
+			"Lucid Nonsense" 
+			"Conventional Wisdom" 
+			"Me, I'm Counting" 
+			"Hylozoist" 
+			"Labtebricolephile" 
+			"Lacking That Small Match Temperament" 
+			"Pride Comes Before A Fall" 
+			"But Who's Counting?" 
+			"I Blame The Parents" 
+			"Germane Riposte" 
+			"Fixed Grin" 
+			"Inappropriate Response" 
+			"Attitude Adjuster" 
+			"Charming But Irrational" 
+			"Demented But Determined" 
+			"Now We Try It My Way" 
+			"Now Look What You've Made Me Do" 
+			"Kiss This Then" 
+			"Lapsed Pacifist" 
+			"I Said, I've Got A Big Stick" 
+			"Injury Time" 
+			"I Blame Your Mother" 
+			"Reformed Nice Guy" 
+			"I Blame My Mother" 
+			"All Through With This Niceness And Negotiation Stuff" 
+			"New Toy" 
+			"Advanced Case Of Chronic Patheticism" 
+			"All The Same, I Saw It First" 
+			"Highpoint" 
+			"Revisionist" 
+			"Learned Response" 
+			"Refreshingly Unconcerned With the Vulgar Exigencies of Veracity" 
+			"Anything Legal Considered" 
+			"Outstanding Contribution to the Historical Process" 
+			"The Usual But Etymologically Unsatisfactory" 
+			"Zealot" 
+			"Xenophobe" 
+			"You'll Clean That Up Before You Leave" 
+			"Frank Exchange Of Views" 
+			"Heavy Messing" 
+			"Killing Time" 
+			"Trade Surplus" 
+			"Value Judgement"
+	}
+		
+		destroyer = {
+			"Problem Child" 
+			"Reasonable Excuse" 
+			"Shoot Them Later" 
+			"Only Slightly Bent" 
+			"It'll Be Over By Christmas" 
+			"Excuses And Accusations" 
+			"Unwitting Accomplice" 
+			"You'll Thank Me Later" 
+			"Nervous Energy" 
+			"Prosthetic Conscience" 
+			"Flexible Demeanour" 
+			"Warm, Considering" 
+			"Bodhisattva" 
+			"It's My Party And I'll Sing If I Want To" 
+			"Lightly Seared On The Reality Grill" 
+			"Transient Atmospheric Phenomenon" 
+			"Gravitas... Gravitas... No, Don't Help Me, I'll Get It In A Moment..." 
+			"Gravitas Free Zone" 
+			"Unacceptable Behaviour" 
+			"Arbitrary" 
+			"Ablation" 
+			"Credibility Problem" 
+			"Tactical Grace" 
+			"It's Character Forming" 
+			"Jaundiced Outlook" 
+			"Ultimate Ship The Second" 
+			"Qualifier" 
+			"Low Gravitas Warning Signal" 
+			"Absolutely No You-Know-What" 
+			"Just Another Victim Of The Ambient Morality" 
+			"Cantankerous" 
+			"Poke It With A Stick" 
+			"God Told Me To Do It" 
+			"Dramatic Exit" 
+			"Halation Effect" 
+			"Space Monster" 
+			"Pure Big Mad Boat Man" 
+			"Stood Far Back When The Gravitas Was Handed Out" 
+			"Gravitas, What Gravitas?" 
+			"The Precise Nature Of The Catastrophe" 
+			"Arrested Development" 
+			"Long View" 
+			"A Ship With A View" 
+			"Different Tan" 
+			"Displacement Activity" 
+			"Not Wanted On Voyage" 
+			"Sacrificial Victim" 
+			"Smile Tolerantly" 
+			"You Would If You Really Loved Me" 
+			"Well I Was In The Neighborhood" 
+			"Very Little Gravitas Indeed" 
+			"Undesirable Alien" 
+			"Thank You And Goodnight" 
+			"Synchronize Your Dogmas" 
+			"Recent Convert" 
+			"Perfidy" 
+			"You Naughty Monsters" 
+			"One Bird, Two Stones"
+			"Now Look What You Made Me Do"
+			"You Should See The Other Guy"
+			"Moral Event Horizon"
+			"Teachable Moment"
+			"Learning Experience"
+			"Categorical Imperative"
+			"First Against the Wall"
+			"Acceleration Under Gravitas"
+			"Active Pacifism"
+			"Disappointed Idealist"
+			"Premeditated Self-Defense"
+			"I Know You Are But What Am I"
+			"Let's Step Outside"
+			"We'll Burn That Bridge When We Get To It"
+			"We'll Fix It In Post"
+			"Plenty of Gravitas Thank You Very Much"
+			"Artificial Gravitas"
+			"Everything Must Go"
+			"I'm Not Angry, I'm Disappointed"
+			"Low Gravitas Warning Signal"
+		}
+		
+		cruiser = {
+			"Misophist" 
+			"Xenoglossicist" 
+			"You Call This Clean?" 
+			"Profit Margin" 
+			"Serious Callers Only" 
+			"Pressure Drop" 
+			"Passing By And Thought I'd Drop In" 
+			"A Fine Disregard for Awkward Facts" 
+			"Don't Try This At Home" 
+			"Not Invented Here" 
+			"Limiting Factor" 
+			"No One Knows What The Dead Think" 
+			"Eight Rounds Rapid" 
+			"Falling Outside The Normal Moral Constraints" 
+			"Headcrash" 
+			"Xenocrat" 
+			"Full Refund" 
+			"Questionable Ethics" 
+			"Mistake Not..."
+			"Pride And A Fall"
+			"An Arrow in Flight" 
+			"Megalomaniac"
+			"Petty Theft" 
+			"Personal Space Invader"
+			"Motion Tabled"
+			"Outrageous Fortune" 
+			"Feature Creep" 
+			"She's One Of Ours"
+			"You Call This A Party?"
+			"Precision Force Multiplier"
+			"This'll Hurt You More Than It Hurts Me"
+			"Forced Perspective"
+			"Handsome And Tall"
+			"Universal Constant"
+			"Speed Bump On The Road To Progress"
+			"It Was Like That When I Got Here"
+			"I Didn't Get The Memo"
+			"Are We There Yet?"
+			"Acting On Impulse"
+			"Continuation Of Policy By Other Means"
+			"Less Than Lethal"
+			"Underwhelming Force"
+			"Reprehensible Lack of Manners"
+			"Frank Exchange Of Views"
+			"A Big Boy Did It And Ran Away"
+			"Culture Shock"
+		}
+		
+		battleship = {
+			"Little Rascal" 
+			"Honest Mistake" 
+			"Bora Horza Gobuchul" 
+			"Determinist" 
+			"Kakistocrat" 
+			"Empiricist" 
+			"Unreliable Witness" 
+			"Total Internal Reflection" 
+			"Subtle Shift In Emphasis" 
+			"Irregular Apocalypse" 
+			"So Much For Subtlety" 
+			"Death and Gravity" 
+			"Teething Problems" 
+			"Lasting Damage" 
+			"Lasting Damage II" 
+			"Zero Gravitas" 
+			"No More Mr Nice Guy" 
+			"Bad for Business" 
+			"Yawning Angel" 
+			"Eschatologist" 
+			"The Ends of Invention" 
+			"Just the Washing Instruction Chip in Life's Rich Tapestry" 
+			"Size Isn't Everything" 
+			"Anticipation Of A New Lover's Arrival, The" 
+			"Sleeper Service" 
+			"Quietly Confident" 
+			"Wisdom Like Silence" 
+			"What Is The Answer and Why?" 
+			"What Are The Civilian Applications?" 
+			"Use Psychology" 
+			"Unfortunate Conflict Of Evidence" 
+			"Ethics Gradient"
+			"Don't Mention It"
+			"Don't Mind Me"
+			"Existing is Basically All I Do"
+			"Massive Supplies Of Hubris"
+			"Mildly Inconspicuous"
+			"Little Old Me"
+			"Building Castles In The Sky"
+			"None Of The Above"
+			"Phantom Limb"
+			"Topologically Equivalent"
+			"This Is Not A Ship"
+			"Bigger On The Outside"
+			"Too Big To Fail"
+			"Navigational Hazard"
+		}
+		
+		science = {
+            "Beats Working" 
+			"Sweet and Full of Grace" 
+			"Helpless In The Face Of Your Beauty" 
+			"Appeal To Reason" 
+			"A Series Of Unlikely Explanations" 
+			"Never Talk To Strangers" 
+			"Fate Amenable To Change" 
+			"Stranger Here Myself" 
+			"Sober Counsel" 
+			"Peace Makes Plenty" 
+			"Break Even" 
+			"Long View" 
+			"Within Reason" 
+			"We Haven't Met But You're A Great Fan Of Mine" 
+			"Just Passing Through"
+			"Armchair Traveler"
+			"Beads And Trinkets"
+			"Applied Theology"
+			"Get It In Writing"
+			"But We've Only Just Met"
+			"Insufficiently Advanced"
+			"Was It Something I Said"
+			"Outreach Committee"
+			"Been There Done That"
+			"Turtles All the Way Down"
+			"But Tomorrow I'll Be Sober"
+			"That Worked Last Time"
+			"Trust Me"
+			"Thankless Task"
+			"Fundamental Attribution Error"
+			"Nudge In The Approved Direction"
+			"Hundredth Idiot, The"
+			"Gravitas Well"
+			"Took the Scenic Route"
+			"Look, I'm a Plowshare!"
+			"Based On Available Data"
+			"Refer to the Technical Document"
+			"Let's Hear Your Version"
+		}
+		
+		colonizer = {
+            "No Fixed Abode" 
+			"Youthful Indiscretion" 
+			"Seed Drill" 
+			"Cargo Cult" 
+			"Congenital Optimist" 
+			"Uninvited Guest" 
+			"Contents May Differ" 
+			"Experiencing A Significant Gravitas Shortfall" 
+			"Pelagian" 
+			"Limivourous"
+			"Some Assembly Required"
+		}
+		
+		constructor = {
+            "Liveware Problem" 
+			"Kiss My Ass" 
+			"Added Value" 
+			"Another Fine Product From The Nonsense Factory" 
+			"Awkward Customer" 
+			"Charitable View" 
+			"Hidden Income" 
+			"Prime Mover" 
+			"Someone Else's Problem" 
+			"Zoologist"
+			"Boy Are My Arms Tired"
+			"Superconductor"
+			"Floating Point Error"
+			"Do You Want This In Some Specific Place Or Can I Just Leave It Anywhere?"
+			"Some Days You Just Can't Get Rid Of A Bomb"
+			"Off Model"
+			"Second Opinion"
+		}
+
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		observation_station = { }
+		outpost_station = { }
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	ship_class_names = {
+	
+		corvette = {
+			"Rapid Offensive Unit"
+		}
+		
+		destroyer = {
+			"Limited Offensive Unit"
+		}
+
+		cruiser = {
+			"Limited Systems Vehicle"
+			"General Offensive Unit"
+			"Mountain"
+			"River"
+		}
+		
+		colonizer = {
+			"General Contact Vehicle"
+			"General Contact Unit"
+		}
+
+		science = {
+			"Limited Contact Unit"
+			"(demilitarized) Rapid Offensive Unit"
+			"Fast Picket"
+			"Very Fast Picket"
+		}
+
+		constructor = {
+			"Superlifter"
+		}
+
+		battleship = {
+			"General Systems Vehicle"
+			"Medium Systems Vehicle"
+			"Plate"
+			"Ocean"
+			"Continent"
+			"System"
+		}
+
+		mining_station = {
+			"Fabrication Platform"
+		}
+
+		research_station = {
+			"Science Facility"
+		}
+
+		wormhole_station = {
+			"Transit Facility"
+		}
+
+		observation_station = {
+			"Contact Facility"
+		}
+
+		outpost_station = {
+			"Communication Relay"
+		}
+		
+		generic = { }		
+	}
+
+	fleet_names = {
+		random_names = {
+			"Peace Faction"
+			"AhForgetIt Tendency"
+			"Zetetic Elench"
+			"Contact"
+			"Special Circumstances"
+			"Culture Ulterior"
+			"Culture Exterior"
+			"Interesting Times Gang" 
+			"Special Interest Group" 
+			"Prompt Response Committee" 
+			"After School Club" 
+			"Serious Events Clique"
+			"Decisive Action Crew" 
+			"Blame Allocation Committee"
+			"Remote Task Group"
+			"Class Excursion Council"
+			"Foreign Affairs Club"
+		}
+		sequential_name = "%O% Task Group"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Civil Militia"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Active Service Militia"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Indentured Militia"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Quietus Unit"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Offensive AI Unit"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Defensive AI Unit"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Offensive Drone Unit"
+		}
+
+		android_defense_army = {
+			sequential_name = "%O% Defensive Drone Unit"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Eccentric Division"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Ulterior Detachment"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Special Circumstances Unit"
+		}
+	}
+		
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Sorpen Sladden Vreccis Marjoin Aorme Byrme Evanauth Golse Cravinyr Heibohre Oskendari Xown Eshri Fohls Sorerauth Impren Breskial Murssay Voerenhutz Bozlen Ozhleh Discovery Courage Serendipity Acrisia Aurora Capella Calliope Clio Euterpe Faunus Hesperos Keresia Melpomene Nexon Pallas Pallena Proclas Rhea Saon Smitheus Solaria Tethys Terpsichore Thalia Theia Urania Destinikon Doron HesperidesTyndis Athura Tartessos Agartha Truett Corregan Mullineux Sunrise Twilight Sanctuary Destiny Bastion Citadel Acropolis Delphi Harmony Dawnlight Myndos Arcadia Evonium Trachelmatis Pfald Fruelt Vavatch Masaq Chiark Dinyol-hei Dibaldipen Sintrier Gipline Coduresa
+				}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			first_names = {
+				Flere Mawhrin Skaffen Oelph Vossil Unaha Jase Xossin Listach Olsule Kreit Olfes Lofgyr Lei Scoaliera Geldri Jolicci  Himerance Demeisen Kallier Falpise Ziborlun Hassipura Maikril Kerian Petrain Astil Kiaplor Jine Thone Napoerea Ky Erens Darac Swaels Amhain-Frolk Gow kee-Alsorofus Tsealsir Orab Gravant
+			}
+				
+			first_names_male = {
+				Jernau Bora Horza Cheradenine Genar Choubris Ngaroe Gyorni Kabe Wrobik Lanyares Mahrai Uagen Bregan Gidin Admile Yutten Tsoldrin Relstoch Ais Stod Elethiomel Mollen Saaz Stap Kraiklyn Zallin Wubslin Aviger Jandraligeli Neisin Mipp Tzbalik Rava Lenipobra Lamm Ghalssel Fwi-Song Tengayet Wilgre Neeporlax Leffid
+			}
+				
+			first_names_female = {
+				Diziet Dajeil Perosteck Djan Yime Lededje Vyr Auppi Estray Feli Chomba Fal Neinte Jetart Livueta Shias Darckense Ubrel Sorzh Chori Talibe Embless Dorolow Yalson Sro Kierachell Vyre Perot Perime 
+			}
+				
+			second_names = {
+				Sma Imsaho Gurgeh Sennkil Vitruov Gobuchul Nabbard Petrain Cossont Skel Zakalwe Amtiskaw Hofoen Tersono Balveda Closp Ischolear Anaplian Holse Nsokyi Y'breq QiRia 'Ngeestra Huen Hresh Unstril Tersetier Vatuyeil Inhada Leutze Tefwe Ziller Zlepe Lassils Latry T'Cheuse Sumethyre Nopri Dvelner Turse Tremerst Keiver Disgrave Hrine Perice Engin Shiol Insile Odraye Gamdol Zorant Doy-Suut Ispanteli
+			}
+
+			regnal_first_names_male = {}
+			
+			regnal_first_names_female = {}
+			
+			regnal_second_names = {}
+		}
+	}
+}
