@@ -342,63 +342,63 @@ Culture = {
 	ship_class_names = {
 	
 		corvette = {
-			"Killer-Class Limited Offensive Unit"
-			"Hooligan-Class Limited Offensive Unit"
-			"Troublemaker-Class Limited Offensive Unit"
+			"Limited Offensive Unit, Killer"
+			"Limited Offensive Unit, Hooligan"
+			"Limited Offensive Unit, Troublemaker"
 		}
 		
 		destroyer = {
-			"Gangster-Class Rapid Offensive Unit"
-			"Psychopath-Class Rapid Offensive Unit"
-			"Torturer-Class Rapid Offensive Unit"
-			"Thug-Class Rapid Offensive Unit"
+			"Rapid Offensive Unit, Gangster"
+			"Rapid Offensive Unit, Psychopath"
+			"Rapid Offensive Unit, Torturer"
+			"Rapid Offensive Unit, Thug"
 		}
 
 		cruiser = {
-			"Murderer-Class General Offensive Unit"
-			"Delinquent-Class General Offensive Unit"
-			"Abominator-Class General Offensive Unit"
-			"Tundra-Class Limited Systems Vehicle"
-			"Air-Class Limited Systems Vehicle"
-			"Blue-Class Limited Systems Vehicle"
+			"General Offensive Unit, Murderer"
+			"General Offensive Unit, Delinquent"
+			"General Offensive Unit, Abominator"
+			"Limited Systems Vehicle, Tundra"
+			"Limited Systems Vehicle, Air"
+			"Limited Systems Vehicle, Blue"
 		}
 		
 		colonizer = {
-			"Plains-Class General Contact Vehicle"
-			"Mountain-Class General Contact Unit"
-			"Escarpment-Class General Contact Unit"
-			"Ridge-Class General Contact Unit"
-			"Troubador-Class General Contact Unit"
-			"Trench-Class General Contact Unit"
-			"Delta-Class General Contact Unit"
-			"Stram-Class General Contact Unit"
-			"River-Class General Contact Unit"
+			"General Contact Vehicle, Plains"
+			"General Contact Unit, Mountain"
+			"General Contact Unit, Escarpment"
+			"General Contact Unit, Ridge"
+			"General Contact Unit, Troubador"
+			"General Contact Unit, Trench"
+			"General Contact Unit, Delta"
+			"General Contact Unit, Stram"
+			"General Contact Unit, River"
 		}
 
 		science = {
-			"Scree-Class Limited Contact Unit"
-			"Ridge-Class Limited Contact Unit"
+			"Limited Contact Unit, Scree"
+			"Limited Contact Unit, Ridge"
 			"(demilitarized) Rapid Offensive Unit"
 			"Fast Picket"
 			"Very Fast Picket"
 		}
 
 		constructor = {
-			"Cliff-Class Superlifter"
-			"Boulder-Class Superlifter"
+			"Superlifter, Cliff"
+			"Superlifter, Boulder"
 		}
 
 		battleship = {
-			"Ocean-Class General Systems Vehicle"
-			"Range-Class General Systems Vehicle"
-			"System-Class General Systems Vehicle"
-			"Continent-Class General Systems Vehicle"
-			"Equator-Class General Systems Vehicle"
-			"Atmosphere-Class General Systems Vehicle"
-			"Plate-Class General Systems Vehicle"
-			"Desert-Class Medium Systems Vehicle"
-			"Shelf-Class Medium Systems Vehicle"
-			"Steppe-Class Medium Systems Vehicle"
+			"General Systems Vehicle, Ocean"
+			"General Systems Vehicle, Range"
+			"General Systems Vehicle, System"
+			"General Systems Vehicle, Continent"
+			"General Systems Vehicle, Equator"
+			"General Systems Vehicle, Atmosphere"
+			"General Systems Vehicle, Plate"
+			"Medium Systems Vehicle, Desert"
+			"Medium Systems Vehicle, Shelf"
+			"Medium Systems Vehicle, Steppe"
 		}
 
 		mining_station = {
