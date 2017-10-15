@@ -342,43 +342,63 @@ Culture = {
 	ship_class_names = {
 	
 		corvette = {
-			"Rapid Offensive Unit"
+			"Killer-Class Limited Offensive Unit"
+			"Hooligan-Class Limited Offensive Unit"
+			"Troublemaker-Class Limited Offensive Unit"
 		}
 		
 		destroyer = {
-			"Limited Offensive Unit"
+			"Gangster-Class Rapid Offensive Unit"
+			"Psychopath-Class Rapid Offensive Unit"
+			"Torturer-Class Rapid Offensive Unit"
+			"Thug-Class Rapid Offensive Unit"
 		}
 
 		cruiser = {
-			"Limited Systems Vehicle"
-			"General Offensive Unit"
-			"Mountain"
-			"River"
+			"Murderer-Class General Offensive Unit"
+			"Delinquent-Class General Offensive Unit"
+			"Abominator-Class General Offensive Unit"
+			"Tundra-Class Limited Systems Vehicle"
+			"Air-Class Limited Systems Vehicle"
+			"Blue-Class Limited Systems Vehicle"
 		}
 		
 		colonizer = {
-			"General Contact Vehicle"
-			"General Contact Unit"
+			"Plains-Class General Contact Vehicle"
+			"Mountain-Class General Contact Unit"
+			"Escarpment-Class General Contact Unit"
+			"Ridge-Class General Contact Unit"
+			"Troubador-Class General Contact Unit"
+			"Trench-Class General Contact Unit"
+			"Delta-Class General Contact Unit"
+			"Stram-Class General Contact Unit"
+			"River-Class General Contact Unit"
 		}
 
 		science = {
-			"Limited Contact Unit"
+			"Scree-Class Limited Contact Unit"
+			"Ridge-Class Limited Contact Unit"
 			"(demilitarized) Rapid Offensive Unit"
 			"Fast Picket"
 			"Very Fast Picket"
 		}
 
 		constructor = {
-			"Superlifter"
+			"Cliff-Class Superlifter"
+			"Boulder-Class Superlifter"
 		}
 
 		battleship = {
-			"General Systems Vehicle"
-			"Medium Systems Vehicle"
-			"Plate"
-			"Ocean"
-			"Continent"
-			"System"
+			"Ocean-Class General Systems Vehicle"
+			"Range-Class General Systems Vehicle"
+			"System-Class General Systems Vehicle"
+			"Continent-Class General Systems Vehicle"
+			"Equator-Class General Systems Vehicle"
+			"Atmosphere-Class General Systems Vehicle"
+			"Plate-Class General Systems Vehicle"
+			"Desert-Class Medium Systems Vehicle"
+			"Shelf-Class Medium Systems Vehicle"
+			"Steppe-Class Medium Systems Vehicle"
 		}
 
 		mining_station = {
