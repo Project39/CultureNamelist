@@ -26,7 +26,7 @@ Culture = {
 			"Scar Glamour" 
 			"Beastly to the Animals" 
 			"Dressed up to Party" 
-			"Ravished By The Sheer Implausibility Of That Last Statement" 
+			"Ravished By The Implausibility Of That Statement" 
 			"You May Not Be The Coolest Person Here" 
 			"Thorough But ... Unreliable" 
 			"Lucid Nonsense" 
@@ -53,16 +53,16 @@ Culture = {
 			"I Blame Your Mother" 
 			"Reformed Nice Guy" 
 			"I Blame My Mother" 
-			"All Through With This Niceness And Negotiation Stuff" 
+			"Through With This Negotiation Stuff" 
 			"New Toy" 
 			"Advanced Case Of Chronic Patheticism" 
 			"All The Same, I Saw It First" 
 			"Highpoint" 
 			"Revisionist" 
 			"Learned Response" 
-			"Refreshingly Unconcerned With the Vulgar Exigencies of Veracity" 
+			"Unconcerned With the Exigencies of Veracity" 
 			"Anything Legal Considered" 
-			"Outstanding Contribution to the Historical Process" 
+			"Contribution to the Historical Process" 
 			"The Usual But Etymologically Unsatisfactory" 
 			"Zealot" 
 			"Xenophobe" 
@@ -91,7 +91,7 @@ Culture = {
 			"It's My Party And I'll Sing If I Want To" 
 			"Lightly Seared On The Reality Grill" 
 			"Transient Atmospheric Phenomenon" 
-			"Gravitas... Gravitas... No, Don't Help Me, I'll Get It In A Moment..." 
+			"Don't Help Me, I'll Get It In A Moment" 
 			"Gravitas Free Zone" 
 			"Unacceptable Behaviour" 
 			"Arbitrary" 
@@ -226,7 +226,6 @@ Culture = {
 			"Yawning Angel" 
 			"Eschatologist" 
 			"The Ends of Invention" 
-			"Just the Washing Instruction Chip in Life's Rich Tapestry" 
 			"Size Isn't Everything" 
 			"Anticipation Of A New Lover's Arrival, The" 
 			"Sleeper Service" 
@@ -322,7 +321,7 @@ Culture = {
 			"Boy Are My Arms Tired"
 			"Superconductor"
 			"Floating Point Error"
-			"Do You Want This In Some Specific Place Or Can I Just Leave It Anywhere?"
+			"Can I Just Leave It Anywhere?"
 			"Some Days You Just Can't Get Rid Of A Bomb"
 			"Off Model"
 			"Second Opinion"
@@ -342,45 +341,45 @@ Culture = {
 	ship_class_names = {
 	
 		corvette = {
-			"Limited Offensive Unit, Killer"
-			"Limited Offensive Unit, Hooligan"
-			"Limited Offensive Unit, Troublemaker"
+			"LOU, Killer"
+			"LOU, Hooligan"
+			"LOU, Troublemaker"
 		}
 		
 		destroyer = {
-			"Rapid Offensive Unit, Gangster"
-			"Rapid Offensive Unit, Psychopath"
-			"Rapid Offensive Unit, Torturer"
-			"Rapid Offensive Unit, Thug"
+			"ROU, Gangster"
+			"ROU, Psychopath"
+			"ROU, Torturer"
+			"ROU, Thug"
 		}
 
 		cruiser = {
-			"General Offensive Unit, Murderer"
-			"General Offensive Unit, Delinquent"
-			"General Offensive Unit, Abominator"
-			"Limited Systems Vehicle, Tundra"
-			"Limited Systems Vehicle, Air"
-			"Limited Systems Vehicle, Blue"
+			"GOU, Murderer"
+			"GOU, Delinquent"
+			"GOU, Abominator"
+			"LSV, Tundra"
+			"LSV, Air"
+			"LSV, Blue"
 		}
 		
 		colonizer = {
-			"General Contact Vehicle, Plains"
-			"General Contact Unit, Mountain"
-			"General Contact Unit, Escarpment"
-			"General Contact Unit, Ridge"
-			"General Contact Unit, Troubador"
-			"General Contact Unit, Trench"
-			"General Contact Unit, Delta"
-			"General Contact Unit, Stram"
-			"General Contact Unit, River"
+			"GCV, Plains"
+			"GCU, Mountain"
+			"GCU, Escarpment"
+			"GCU, Ridge"
+			"GCU, Troubador"
+			"GCU, Trench"
+			"GCU, Delta"
+			"GCU, Stram"
+			"GCU, River"
 		}
 
 		science = {
-			"Limited Contact Unit, Scree"
-			"Limited Contact Unit, Ridge"
-			"(demilitarized) Rapid Offensive Unit"
-			"Fast Picket"
-			"Very Fast Picket"
+			"LCU, Scree"
+			"LCU, Ridge"
+			"(d)ROU"
+			"FP"
+			"VFP"
 		}
 
 		constructor = {
@@ -389,16 +388,16 @@ Culture = {
 		}
 
 		battleship = {
-			"General Systems Vehicle, Ocean"
-			"General Systems Vehicle, Range"
-			"General Systems Vehicle, System"
-			"General Systems Vehicle, Continent"
-			"General Systems Vehicle, Equator"
-			"General Systems Vehicle, Atmosphere"
-			"General Systems Vehicle, Plate"
-			"Medium Systems Vehicle, Desert"
-			"Medium Systems Vehicle, Shelf"
-			"Medium Systems Vehicle, Steppe"
+			"GSV, Ocean"
+			"GSV, Range"
+			"GSV, System"
+			"GSV, Continent"
+			"GSV, Equator"
+			"GSV, Atmosphere"
+			"GSV, Plate"
+			"MSV, Desert"
+			"MSV, Shelf"
+			"MSV, Steppe"
 		}
 
 		mining_station = {
